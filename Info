@@ -1,0 +1,10 @@
+
+
+https://www.tutorialspoint.com/xstream/xstream_first_application.htm
+
+mvn clean install
+
+mvn spring-boot:run
+
+http://localhost:8080/
+
